@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Set up development environment",
+    "description": "Install dependencies, configure linting, set up Git hooks.",
+    "dueDate": "2026-03-18",
+    "priority": "High",
+    "status": "Completed",
+    "sortOrder": 1,
+    "createdAt": "2026-03-14T21:26:12.529Z"
+  },
+  {
+    "id": 2,
+    "title": "Design database schema",
+    "description": "Define all entities, relationships, and indexes.",
+    "dueDate": "2026-03-20",
+    "priority": "High",
+    "status": "Pending",
+    "sortOrder": 2,
+    "createdAt": "2026-03-15T21:26:12.529Z"
+  },
+  {
+    "id": 3,
+    "title": "Implement REST API endpoints",
+    "description": "Build CRUD operations, add input validation.",
+    "dueDate": "2026-03-23",
+    "priority": "Medium",
+    "status": "Pending",
+    "sortOrder": 3,
+    "createdAt": "2026-03-16T21:26:12.529Z"
+  },
+  {
+    "id": 4,
+    "title": "Write unit and integration tests",
+    "description": "Aim for at least 80% code coverage.",
+    "dueDate": "2026-03-27",
+    "priority": "Medium",
+    "status": "Completed",
+    "sortOrder": 4,
+    "createdAt": "2026-03-17T21:26:12.529Z"
+  },
+  {
+    "id": 5,
+    "title": "Update project README",
+    "description": "Add setup instructions and contribution guidelines.",
+    "dueDate": "2026-03-29",
+    "priority": "Low",
+    "status": "Pending",
+    "sortOrder": 5,
+    "createdAt": "2026-03-17T21:26:12.529Z"
+  },
+  {
+    "id": 6,
+    "title": "ayush",
+    "description": "singh",
+    "dueDate": "2026-03-19",
+    "priority": "Medium",
+    "status": "Pending",
+    "sortOrder": 6,
+    "createdAt": "2026-03-17T21:26:50.521Z"
+  }
+]
